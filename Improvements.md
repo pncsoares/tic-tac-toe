@@ -4,10 +4,10 @@ If you have extra time or want to practice your new React skills, here are some 
 
 - [x] Bold the currently selected item in the move list.
 
-- [ ] Rewrite Board to use two loops to make the squares instead of hardcoding them.
+- [x] Rewrite Board to use two loops to make the squares instead of hardcoding them.
 
-- [ ] Add a toggle button that lets you sort the moves in either ascending or descending order.
+- [x] Add a toggle button that lets you sort the moves in either ascending or descending order.
 
-- [ ] When someone wins, highlight the three squares that caused the win.
+- [x] When someone wins, highlight the three squares that caused the win.
 
 - [x] When no one wins, display a message about the result being a draw.
